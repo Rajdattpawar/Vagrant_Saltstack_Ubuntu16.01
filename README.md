@@ -9,7 +9,7 @@ This provide you fully functional Saltstack testing environment using Vagrant on
   - Install [vagrant-hosts](https://github.com/oscar-stack/vagrant-hosts) vagrant plugin
 
 ### How to Start:
-  - Checkout https://github.com/Rajdattpawar/Vagrant_Saltstack_Ubuntu16.01/blob/master/installmaster.sh in newly created folder
+  - Checkout https://github.com/Rajdattpawar/Vagrant_Saltstack_Ubuntu16.01/ in newly created folder
   - Run `vagrant up` to startup your VM
   - login to the mastersalt server server
       ssh ubuntu@192.168.33.11 
