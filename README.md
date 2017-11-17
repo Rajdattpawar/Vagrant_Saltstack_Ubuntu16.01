@@ -5,8 +5,8 @@
 This provide you fully functional Saltstack testing environment using Vagrant on ubuntu 16.04. Environment with pre-install latest version of salt-master salt-minion salt-ssh salt-cloud salt-doc
 
 ### Dependencies:
+  - install latest version [VirtualBox](https://www.virtualbox.org/)
   - Install latest version [Vagrant](https://www.vagrantup.com/)
-  - Install [vagrant-hosts](https://github.com/oscar-stack/vagrant-hosts) vagrant plugin
 
 ### How to Start:
   - Checkout https://github.com/Rajdattpawar/Vagrant_Saltstack_Ubuntu16.01/ in newly created folder
